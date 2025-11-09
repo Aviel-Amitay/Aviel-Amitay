@@ -39,9 +39,3 @@ Whether it’s automation, virtualization, or network optimization — I deliver
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aviel-Amitay&layout=compact&theme=dark)
 
 ---
-
-### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aviel-amitay)
-[![Website](https://img.shields.io/badge/Website-grey?style=for-the-badge&logo=google-chrome)](https://www.amitay.dev)
-[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:amitay.site@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-darkgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=972585770220)
