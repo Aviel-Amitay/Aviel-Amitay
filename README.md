@@ -22,6 +22,7 @@ Whether it’s automation, virtualization, or network optimization — I deliver
 ![Chef](https://img.shields.io/badge/-Chef-333?style=for-the-badge&logo=chef)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=for-the-badge&logo=jenkins)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-333?style=for-the-badge&logo=aws)
 ![Bash](https://img.shields.io/badge/-Bash-333?style=for-the-badge&logo=gnu-bash)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-333?style=for-the-badge&logo=powershell)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)
