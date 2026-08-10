@@ -1,10 +1,12 @@
 <h1 align="center">Aviel Amitay | Platform & DevOps Engineer</h1>
 
 <p align="center">
-  <a href="https://www.amitay.dev">Website</a> •
-  <a href="https://www.linkedin.com/in/aviel-amitay">LinkedIn</a> •
-  <a href="mailto:amitay.site@gmail.com">Email</a> •
-  <a href="https://www.amitay.dev/Aviel_Amitay_resume.pdf">Resume</a>
+  <a href="https://www.amitay.dev"><img src="https://img.shields.io/badge/Website-0A66C2?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/aviel-amitay"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:amitay.site@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+  <a href="https://api.whatsapp.com/send?phone=972585770220"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp"></a>
+  <a href="https://aviel-amitay.github.io/#resume"><img src="https://img.shields.io/badge/Resume-555555?style=flat-square&amp;logo=readdotcv&amp;logoColor=white" alt="Resume"></a>
+  <a href="https://github.com/Aviel-Amitay"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
 </p>
 
 <p align="center">
@@ -55,7 +57,7 @@ I'm a Platform and DevOps Engineer focused on reliable infrastructure, practical
 - [Multi-Server User Manager](https://github.com/Aviel-Amitay/multi-server-user-manager) — a Python/Flask secret-management platform with role-based access control and credential lifecycle automation.
 - [Docker Development Environment](https://github.com/Aviel-Amitay/docker-dev-desktop-vnc) — a containerized Linux desktop that standardizes development workflows and speeds up onboarding.
 - **Kubernetes Home Lab** *(in progress)* — a K3s cluster for deploying containerized applications with Services, Ingress, and ConfigMaps.
-
+<!--
 ## Recent repositories
 
 <p align="center">
@@ -65,7 +67,7 @@ I'm a Platform and DevOps Engineer focused on reliable infrastructure, practical
   <a href="https://github.com/Aviel-Amitay/examscraper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aviel-Amitay&amp;repo=examscraper&amp;theme=github_dark&amp;hide_border=true" alt="examscraper repository card"></a>
 </p>
 
-<p align="center"><a href="https://github.com/Aviel-Amitay?tab=repositories">View all repositories →</a></p>
+<p align="center"><a href="https://github.com/Aviel-Amitay?tab=repositories">View all repositories →</a></p> -->
 
 ## GitHub activity
 
